@@ -1,11 +1,7 @@
-AULA ESTELAR — VERSIÓN WEB INSTALABLE
-
-IMPORTANTE: Para instalar como app (PWA), sube TODOS los archivos de esta carpeta a un sitio HTTPS, por ejemplo GitHub Pages o Netlify. Abrir index.html directamente como archivo local NO permite instalarla como PWA.
-
-En Chrome de Android: abre la dirección HTTPS > menú de tres puntos > Instalar aplicación o Agregar a pantalla principal (según el navegador). Abre una vez con internet para que se guarden los archivos; después prueba modo avión.
-
-Puedes abrir index.html directamente para una prueba sin internet, pero la persistencia de datos desde file:// no es confiable y no debe usarse para registros reales.
-
-Los datos se guardan LOCALMENTE en el navegador y no se sincronizan entre dispositivos. Exporta respaldos JSON regularmente desde el panel docente y verifica el archivo descargado. No uses nombres completos ni información sensible. El PIN es una barrera básica, no cifrado. No compartas archivos de respaldo: incluyen datos y PIN.
-
-Antes de cambiar de versión, respalda en la versión anterior. Si instalas en otro origen o dominio, importa el respaldo: los datos NO migran solos.
+AULA ESTELAR 6.0 — PWA
+Sube los 6 archivos a la raíz del mismo repositorio GitHub Pages, reemplazando los anteriores.
+Antes de actualizar, exporta un respaldo desde el panel docente.
+La app conserva la clave de almacenamiento local y el dominio/ruta para preservar el progreso.
+Animaciones SVG y CSS integradas sin conexión; se respetan preferencias de movimiento reducido.
+Mascotas solo con estrellas grupales y adopción autorizada por docente.
+Prueba con datos ficticios antes de usar registros reales.
