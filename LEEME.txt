@@ -1,1 +1,1 @@
-Aula Estelar 7.0: ajustes de estrellas individuales y grupales con confirmación e historial privado. Antes de actualizar, exportar respaldo. Subir archivos sueltos al mismo repositorio GitHub Pages, sin subir ZIP. Las mascotas adoptadas se conservan.
+Aula Estelar v8: reconocimiento en vivo con PIN, catálogo de 30 conductas y celebración proyectable. Extrae los seis archivos y súbelos a la raíz de GitHub Pages. Exporta respaldo JSON antes de actualizar. No borres datos del navegador.
