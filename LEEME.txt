@@ -1,7 +1,1 @@
-AULA ESTELAR 6.0 — PWA
-Sube los 6 archivos a la raíz del mismo repositorio GitHub Pages, reemplazando los anteriores.
-Antes de actualizar, exporta un respaldo desde el panel docente.
-La app conserva la clave de almacenamiento local y el dominio/ruta para preservar el progreso.
-Animaciones SVG y CSS integradas sin conexión; se respetan preferencias de movimiento reducido.
-Mascotas solo con estrellas grupales y adopción autorizada por docente.
-Prueba con datos ficticios antes de usar registros reales.
+Aula Estelar 7.0: ajustes de estrellas individuales y grupales con confirmación e historial privado. Antes de actualizar, exportar respaldo. Subir archivos sueltos al mismo repositorio GitHub Pages, sin subir ZIP. Las mascotas adoptadas se conservan.
