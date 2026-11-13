@@ -1,1 +1,1 @@
-Aula Estelar v8: reconocimiento en vivo con PIN, catálogo de 30 conductas y celebración proyectable. Extrae los seis archivos y súbelos a la raíz de GitHub Pages. Exporta respaldo JSON antes de actualizar. No borres datos del navegador.
+Aula Estelar 9.0. Antes de actualizar, exporta respaldo JSON. Sube los seis archivos a la raiz del repositorio GitHub Pages. Las fotos se guardan localmente, no en GitHub. Se requiere autorizacion familiar para su uso.
